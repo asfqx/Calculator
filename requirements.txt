@@ -1,0 +1,8 @@
+sys
+gui
+PyQt6.QtWidgets 
+math
+matplotlib.pyplot
+numpy
+setuptools
+unittest
